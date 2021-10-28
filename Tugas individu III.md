@@ -18,3 +18,9 @@ Flowchat penyelesaian masalah wadah x=4 kg dan y=3 kg. denan goal y=2
 #Di Paython
 
 ![image](https://user-images.githubusercontent.com/93015185/139237869-ca22ef3a-6952-4455-ab47-e57ba0480290.png)
+![image](https://user-images.githubusercontent.com/93015185/139238235-20dd0a14-6924-4c9f-98fd-159f3703b4a6.png)
+![image](https://user-images.githubusercontent.com/93015185/139238285-fe85f400-8b6d-4c2d-b47a-f9e2c4f01cdd.png)
+![image](https://user-images.githubusercontent.com/93015185/139238368-d111b3af-4699-4908-b4f6-0fef95e36c1c.png)
+
+#INPUT
+![image](https://user-images.githubusercontent.com/93015185/139238642-085939ec-29d8-4539-bcfe-95418c4ec3af.png)
